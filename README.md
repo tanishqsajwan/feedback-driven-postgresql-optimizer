@@ -103,4 +103,4 @@ Instead, the system aims to learn from actual execution feedback and help identi
 
 ## Status
 
-🚧 Project development has not started yet.
+Project development has started.
